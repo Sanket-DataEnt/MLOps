@@ -1,0 +1,3 @@
+#!/Users/sanket/Personal/Github/MLOps/myenv/bin/python3
+from numba.pycc import main
+main()
