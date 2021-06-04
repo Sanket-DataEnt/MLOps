@@ -9,3 +9,5 @@ scikit-learn == 0.23.2
 pycaret[full]
 fastapi
 uvicorn
+requests
+requests-cache
