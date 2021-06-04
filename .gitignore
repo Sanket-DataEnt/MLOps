@@ -136,3 +136,4 @@ out/
 summaries/
 data/cifar*
 .DS_Store
+.sqlite
